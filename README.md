@@ -3,16 +3,16 @@
 Agent Disco ranks MCP servers, AI apps and connectors by how visible they are across AI assistants.
 [Explore the interactive leaderboard](https://agentdisco.dev/best-mcp-servers).
 
-**Snapshot:** 2026-11-25 04:11 UTC
+**Snapshot:** 2026-11-26 04:02 UTC
 
 | Rank | Product | Discoverability /100 | Quality (beta) /100 |
 | ---: | --- | ---: | ---: |
-| 1 | Google Drive | 81.8 | 78.0 (partly estimated) |
+| 1 | Google Drive | 81.8 | 74.5 |
 | 2 | Notion | 42.5 | ≈78.0 (unranked median) |
 | 3 | Supabase | 41.3 | 88.8 (partly estimated) |
 | 4 | Canva | 40.6 | 74.1 |
 | 5 | Figma | 38.7 | 88.8 (partly estimated) |
-| 6 | Firecrawl | 38.1 | 70.9 |
+| 6 | Firecrawl | 38.2 | 70.9 |
 | 7 | Slack | 38.0 | 78.0 (partly estimated) |
 | 8 | Shopify | 37.1 | 79.1 |
 | 9 | Vercel | 36.0 | 88.8 (partly estimated) |
@@ -21,7 +21,7 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 12 | Gmail | 34.0 | 73.2 |
 | 13 | Adobe | 32.3 | ≈78.0 (unranked median) |
 | 14 | Todoist | 31.9 | 88.8 (partly estimated) |
-| 15 | Dropbox | 31.7 | ≈78.0 (unranked median) |
+| 15 | Dropbox | 31.6 | ≈78.0 (unranked median) |
 | 16 | Metricool Social Media Management | 31.5 | 78.0 (partly estimated) |
 | 17 | Airtable | 31.1 | 81.6 (partly estimated) |
 | 18 | vidIQ | 30.9 | 88.8 (partly estimated) |
@@ -39,7 +39,7 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 30 | Interactive Brokers (IBKR) | 27.1 | ≈78.0 (unranked median) |
 | 31 | Booking.com | 27.1 | ≈78.0 (unranked median) |
 | 32 | Descript | 24.8 | 70.9 (partly estimated) |
-| 33 | Floot | 24.1 | 88.8 (partly estimated) |
+| 33 | Floot | 24.0 | 88.8 (partly estimated) |
 | 34 | Render | 24.0 | 78.0 (partly estimated) |
 | 35 | Linear | 23.4 | 87.5 |
 | 36 | Stripe | 23.2 | 81.6 (partly estimated) |
@@ -61,7 +61,7 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 52 | Box | 19.8 | ≈78.0 (unranked median) |
 | 53 | Asana | 19.6 | 78.0 (partly estimated) |
 | 54 | Gusto | 19.5 | ≈78.0 (unranked median) |
-| 55 | Zapier | 19.5 | 88.8 (partly estimated) |
+| 55 | Zapier | 19.4 | 88.8 (partly estimated) |
 | 56 | Miro | 19.3 | 81.6 (partly estimated) |
 | 57 | Higgsfield | 19.1 | 78.0 (partly estimated) |
 | 58 | Intercom | 18.9 | 70.9 (partly estimated) |
@@ -84,7 +84,7 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 75 | Lucid | 17.2 | ≈78.0 (unranked median) |
 | 76 | Zoho CRM | 17.1 | ≈78.0 (unranked median) |
 | 77 | Apify | 17.0 | 88.8 (partly estimated) |
-| 78 | Google Cloud BigQuery | 16.6 | 75.7 |
+| 78 | Google Cloud BigQuery | 16.7 | 75.7 |
 | 79 | Semrush | 16.6 | ≈78.0 (unranked median) |
 | 80 | NetSuite | 16.4 | ≈78.0 (unranked median) |
 | 81 | Postman | 16.3 | ≈78.0 (unranked median) |
@@ -97,8 +97,8 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 88 | Pipedrive | 16.0 | 70.9 (partly estimated) |
 | 89 | Parallel | 15.9 | 74.5 (partly estimated) |
 | 90 | Attio | 15.9 | 78.0 (partly estimated) |
-| 91 | Sales | 15.6 | ≈78.0 (unranked median) |
-| 92 | Zoho Mail | 15.6 | ≈78.0 (unranked median) |
+| 91 | Zoho Mail | 15.7 | ≈78.0 (unranked median) |
+| 92 | Sales | 15.6 | ≈78.0 (unranked median) |
 | 93 | Replit | 15.6 | 70.9 (partly estimated) |
 | 94 | Wispr Flow | 15.5 | 70.9 (partly estimated) |
 | 95 | Framer | 15.3 | 78.0 (partly estimated) |
