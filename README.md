@@ -3,7 +3,7 @@
 Agent Disco ranks MCP servers, AI apps and connectors by how visible they are across AI assistants.
 [Explore the interactive leaderboard](https://agentdisco.dev/best-mcp-servers).
 
-**Snapshot:** 2026-11-26 04:02 UTC
+**Snapshot:** 2026-11-27 04:09 UTC
 
 | Rank | Product | Discoverability /100 | Quality (beta) /100 |
 | ---: | --- | ---: | ---: |
@@ -17,9 +17,9 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 8 | Shopify | 37.1 | 79.1 |
 | 9 | Vercel | 36.0 | 88.8 (partly estimated) |
 | 10 | Atlassian MCP | 35.7 | 88.8 (partly estimated) |
-| 11 | Exa | 34.6 | 92.5 |
+| 11 | Exa | 34.4 | 92.5 |
 | 12 | Gmail | 34.0 | 73.2 |
-| 13 | Adobe | 32.3 | ≈78.0 (unranked median) |
+| 13 | Adobe | 32.2 | ≈78.0 (unranked median) |
 | 14 | Todoist | 31.9 | 88.8 (partly estimated) |
 | 15 | Dropbox | 31.6 | ≈78.0 (unranked median) |
 | 16 | Metricool Social Media Management | 31.5 | 78.0 (partly estimated) |
@@ -28,16 +28,16 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 19 | GitHub | 30.8 | 88.8 (partly estimated) |
 | 20 | Lovable | 30.3 | 87.5 |
 | 21 | Wix | 29.8 | 88.8 (partly estimated) |
-| 22 | Trello | 29.7 | 78.0 (partly estimated) |
+| 22 | Trello | 29.8 | 78.0 (partly estimated) |
 | 23 | ClickUp | 29.7 | 78.0 (partly estimated) |
 | 24 | TinyFish | 29.4 | 70.9 (partly estimated) |
 | 25 | Consensus | 29.3 | 78.0 (partly estimated) |
-| 26 | Windsor.ai | 29.1 | 78.0 (partly estimated) |
+| 26 | Windsor.ai | 29.2 | 78.0 (partly estimated) |
 | 27 | HubSpot | 28.4 | ≈78.0 (unranked median) |
 | 28 | Google Calendar | 28.1 | 72.0 |
 | 29 | Remote Desktop Commander | 28.0 | 74.3 (partly estimated) |
 | 30 | Interactive Brokers (IBKR) | 27.1 | ≈78.0 (unranked median) |
-| 31 | Booking.com | 27.1 | ≈78.0 (unranked median) |
+| 31 | Booking.com | 27.0 | ≈78.0 (unranked median) |
 | 32 | Descript | 24.8 | 70.9 (partly estimated) |
 | 33 | Floot | 24.0 | 88.8 (partly estimated) |
 | 34 | Render | 24.0 | 78.0 (partly estimated) |
@@ -61,7 +61,7 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 52 | Box | 19.8 | ≈78.0 (unranked median) |
 | 53 | Asana | 19.6 | 78.0 (partly estimated) |
 | 54 | Gusto | 19.5 | ≈78.0 (unranked median) |
-| 55 | Zapier | 19.4 | 88.8 (partly estimated) |
+| 55 | Zapier | 19.5 | 88.8 (partly estimated) |
 | 56 | Miro | 19.3 | 81.6 (partly estimated) |
 | 57 | Higgsfield | 19.1 | 78.0 (partly estimated) |
 | 58 | Intercom | 18.9 | 70.9 (partly estimated) |
@@ -88,25 +88,25 @@ Agent Disco ranks MCP servers, AI apps and connectors by how visible they are ac
 | 79 | Semrush | 16.6 | ≈78.0 (unranked median) |
 | 80 | NetSuite | 16.4 | ≈78.0 (unranked median) |
 | 81 | Postman | 16.3 | ≈78.0 (unranked median) |
-| 82 | Kiwi.com | 16.3 | 74.5 (partly estimated) |
-| 83 | Plaud | 16.3 | 70.9 (partly estimated) |
-| 84 | QuickStart | 16.2 | 70.9 (partly estimated) |
-| 85 | Intuit QuickBooks | 16.2 | ≈78.0 (unranked median) |
-| 86 | WPVibe | 16.2 | 78.0 (partly estimated) |
+| 82 | WPVibe | 16.3 | 78.0 (partly estimated) |
+| 83 | Kiwi.com | 16.3 | 74.5 (partly estimated) |
+| 84 | Plaud | 16.3 | 70.9 (partly estimated) |
+| 85 | QuickStart | 16.2 | 70.9 (partly estimated) |
+| 86 | Intuit QuickBooks | 16.2 | ≈78.0 (unranked median) |
 | 87 | Fireflies | 16.2 | 88.8 (partly estimated) |
 | 88 | Pipedrive | 16.0 | 70.9 (partly estimated) |
 | 89 | Parallel | 15.9 | 74.5 (partly estimated) |
 | 90 | Attio | 15.9 | 78.0 (partly estimated) |
 | 91 | Zoho Mail | 15.7 | ≈78.0 (unranked median) |
-| 92 | Sales | 15.6 | ≈78.0 (unranked median) |
-| 93 | Replit | 15.6 | 70.9 (partly estimated) |
-| 94 | Wispr Flow | 15.5 | 70.9 (partly estimated) |
-| 95 | Framer | 15.3 | 78.0 (partly estimated) |
-| 96 | Malwarebytes | 15.3 | 77.0 |
+| 92 | Legal Data Hunter | 15.7 | 88.8 (partly estimated) |
+| 93 | Sales | 15.6 | ≈78.0 (unranked median) |
+| 94 | Replit | 15.6 | 70.9 (partly estimated) |
+| 95 | Wispr Flow | 15.4 | 70.9 (partly estimated) |
+| 96 | Framer | 15.4 | 78.0 (partly estimated) |
 | 97 | Intuit QuickBooks Labs | 15.3 | ≈78.0 (unranked median) |
-| 98 | CoinMarketCap | 15.2 | 88.8 (partly estimated) |
-| 99 | Browser | 15.1 | ≈78.0 (unranked median) |
-| 100 | Data | 14.6 | ≈78.0 (unranked median) |
+| 98 | Malwarebytes | 15.3 | 77.0 |
+| 99 | CoinMarketCap | 15.2 | 88.8 (partly estimated) |
+| 100 | Browser | 15.1 | ≈78.0 (unranked median) |
 
 ## How to read the rankings
 
